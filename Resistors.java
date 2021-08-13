@@ -1,7 +1,6 @@
 import java.util.Scanner;
 /*
 *Author Itay Nir
-*208988725
 The Resistors class use to print the total of three Resistors
  */
 public class Resistors
